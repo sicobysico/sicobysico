@@ -1,7 +1,7 @@
 - 👋 Hi, I am Hyun-Sik Jeong :kr:
-- :man_technologist: Theoretical physicist.
-- :es: Currently working at the Institute for Theoretical Physics (IFT) UAM-CSIC in Madrid. 
-- :books: Recent publications are at the interface between quantum information, black holes, and many-body physics.
+- :man_technologist: Theoretical Physicist
+- :es: Currently working at the Institute for Theoretical Physics (IFT) UAM-CSIC in Madrid 
+- :books: Recent publications are at the interface between quantum information, black holes, and many-body physics
 - https://inspirehep.net/authors/1684456?ui-citation-summary=true
 <!---
 sicobysico/sicobysico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
